@@ -1,0 +1,5 @@
+com\familyTree\hlv\controller\TreeControllerTest.class
+com\familyTree\hlv\service\mapper\GenderMapperTest.class
+com\familyTree\hlv\service\PersonServiceTest.class
+com\familyTree\hlv\HlvApplicationTests.class
+com\familyTree\hlv\service\mapper\PersonMapperTest.class
